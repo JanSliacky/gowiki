@@ -5,3 +5,5 @@ draft: false
 ---
 
 # This is the first content
+
+![logo](https://www.marketingoveporadenstvo.sk/wp-content/uploads/2015/02/1_analyza.jpg "logo")
