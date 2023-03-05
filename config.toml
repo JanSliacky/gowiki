@@ -1,5 +1,5 @@
 baseURL = 'https://JanSliacky.github.io/gowiki/'
-languageCode = 'en-us'
+languageCode = 'en-US'
 title = 'GoWiki'
 theme = 'learn'
 
@@ -44,3 +44,5 @@ theme = 'learn'
   custom_css = ["css/foo.css", "css/bar.css"]
   # Change the title separator. Default to "::".
   titleSeparator = "-"
+
+  defaultContentLanguage = "sk"
