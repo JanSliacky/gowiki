@@ -13,3 +13,5 @@ draft: false
 [Velmi dobre hugo temy](https://jamstackthemes.dev/ssg/hugo/)
 
 [Navod, ako rozbehat Github Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+[Oficialna stranka temy Learn](https://learn.netlify.app/en/)
