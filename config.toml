@@ -1,6 +1,6 @@
-baseURL = 'https://JanSliacky.github.io/gowiki/'
+baseURL = 'https://JanSliacky.github.io/wiki/'
 languageCode = 'en-US'
-title = 'GoWiki'
+title = 'Wiki'
 theme = 'learn'
 
 [params]
